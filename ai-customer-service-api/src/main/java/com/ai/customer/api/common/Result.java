@@ -97,6 +97,13 @@ public class Result<T> implements Serializable {
     }
 
     /**
+     * 失败返回（带错误码枚举）
+     */
+    public static <T> Result<T> fail(ErrorCode errorCode) {
+        return new Result<>(errorCode.getCode(), errorCode.getMessage(), null);
+    }
+
+    /**
      * 判断是否成功
      */
     public boolean isSuccess() {

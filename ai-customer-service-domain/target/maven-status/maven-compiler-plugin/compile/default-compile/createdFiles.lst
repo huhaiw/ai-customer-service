@@ -1,0 +1,13 @@
+com/ai/customer/domain/message/entity/Message.class
+com/ai/customer/domain/message/repository/MessageRepository.class
+com/ai/customer/domain/common/BaseEntity.class
+com/ai/customer/domain/classification/entity/MessageClassification.class
+com/ai/customer/domain/emotion/entity/EmotionRecord.class
+com/ai/customer/domain/session/entity/Session.class
+com/ai/customer/domain/classification/entity/Classification.class
+com/ai/customer/domain/emotion/repository/EmotionRecordRepository.class
+com/ai/customer/domain/classification/repository/ClassificationRepository.class
+com/ai/customer/domain/knowledge/repository/KnowledgeRepository.class
+com/ai/customer/domain/session/repository/SessionRepository.class
+com/ai/customer/domain/classification/repository/MessageClassificationRepository.class
+com/ai/customer/domain/knowledge/entity/Knowledge.class

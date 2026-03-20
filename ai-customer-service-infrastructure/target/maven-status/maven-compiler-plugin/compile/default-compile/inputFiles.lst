@@ -1,0 +1,13 @@
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/ClassificationMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/SessionRepositoryImpl.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/MessageClassificationRepositoryImpl.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/KnowledgeMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/KnowledgeRepositoryImpl.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/EmotionRecordMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/MessageRepositoryImpl.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/MessageClassificationMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/MessageMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/mapper/SessionMapper.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/EmotionRecordRepositoryImpl.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/config/MybatisPlusConfig.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-infrastructure/src/main/java/com/ai/customer/infrastructure/repository/ClassificationRepositoryImpl.java

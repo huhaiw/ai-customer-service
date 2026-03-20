@@ -1,4 +1,4 @@
-package com.ai.customer.api.controller;
+package com.ai.customer.controller;
 
 import com.ai.customer.api.common.Result;
 import com.ai.customer.api.dto.request.ChatRequest;

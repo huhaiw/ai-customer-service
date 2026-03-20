@@ -1,0 +1,14 @@
+com/ai/customer/infrastructure/config/MybatisPlusConfig.class
+com/ai/customer/infrastructure/mapper/MessageMapper.class
+com/ai/customer/infrastructure/repository/MessageClassificationRepositoryImpl.class
+com/ai/customer/infrastructure/mapper/KnowledgeMapper.class
+com/ai/customer/infrastructure/mapper/EmotionRecordMapper.class
+com/ai/customer/infrastructure/repository/EmotionRecordRepositoryImpl.class
+com/ai/customer/infrastructure/mapper/ClassificationMapper.class
+com/ai/customer/infrastructure/repository/MessageRepositoryImpl.class
+com/ai/customer/infrastructure/repository/SessionRepositoryImpl.class
+com/ai/customer/infrastructure/mapper/SessionMapper.class
+com/ai/customer/infrastructure/config/MybatisPlusConfig$CustomMetaObjectHandler.class
+com/ai/customer/infrastructure/mapper/MessageClassificationMapper.class
+com/ai/customer/infrastructure/repository/KnowledgeRepositoryImpl.class
+com/ai/customer/infrastructure/repository/ClassificationRepositoryImpl.class

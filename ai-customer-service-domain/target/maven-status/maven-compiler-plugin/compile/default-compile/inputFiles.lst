@@ -1,0 +1,13 @@
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/message/repository/MessageRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/classification/repository/ClassificationRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/emotion/entity/EmotionRecord.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/emotion/repository/EmotionRecordRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/session/entity/Session.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/knowledge/repository/KnowledgeRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/session/repository/SessionRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/message/entity/Message.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/common/BaseEntity.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/classification/repository/MessageClassificationRepository.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/knowledge/entity/Knowledge.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/classification/entity/Classification.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-domain/src/main/java/com/ai/customer/domain/classification/entity/MessageClassification.java

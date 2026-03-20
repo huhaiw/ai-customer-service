@@ -1,0 +1,13 @@
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/common/ErrorCode.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/exception/BusinessException.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/exception/GlobalExceptionHandler.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/common/CommonErrorCode.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/common/Result.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/request/SessionCreateRequest.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/response/SessionVO.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/response/MessageVO.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/common/PageResult.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/request/ChatRequest.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/response/EmotionResultVO.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/response/ChatResponse.java
+/Users/xiaohuzhuanshu/java/projects/backend/ai-customer-service/ai-customer-service-api/src/main/java/com/ai/customer/api/dto/response/ClassificationResultVO.java
